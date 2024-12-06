@@ -114,7 +114,7 @@
         }
     }
   }
-  
+
 
 .theme-btn3 {
     color: #FFF;
@@ -129,7 +129,7 @@
     position: relative;
     overflow: hidden;
     border: none;
-    
+
     &::before {
         content: "";
         position: absolute;
@@ -186,7 +186,7 @@
     @media #{$xs} {
         margin-top: 10px;
     }
-    
+
     &::before {
         content: "";
         position: absolute;
@@ -337,10 +337,10 @@
         }
     }
   }
-  
+
 
   .theme-btn7 {
-    
+
     display: inline-block;
     padding: 20px 60px 20px 24px;
     color: $color-w;
@@ -422,13 +422,13 @@
 
 
     &:hover {
-        background: #F1865D !important;
+        background: #b5c3d4 !important;
         color: $color-w;
         transition: all .4s;
         transform: translateY(-4px);
 
         &::after {
-            background: #F1865D !important;
+            background: #b5c3d4 !important;
             transition: all .4s;
         }
 
@@ -564,7 +564,7 @@
         transition: all .4s;
          opacity: 1;
         background: $bg-color7;
- 
+
         &::after {
             top: 5px;
             left: 5px;
@@ -587,7 +587,7 @@
 
 
 //   .theme-btn10 {
-    
+
 //     display: inline-block;
 //     padding: 20px 42px 20px 24px;
 //     color: $color-w;
@@ -694,7 +694,7 @@
 
 
   .theme-btn11 {
-    
+
     display: inline-block;
     padding: 20px 60px 20px 24px;
     color: $color-w;
@@ -840,9 +840,9 @@
 
 
 
-  
 
-  
+
+
 //   .theme-btn10,
 //   [class*="button-"]{
 //     position: relative;
@@ -866,17 +866,17 @@
 //         display: inline-block;
 //         margin-left: 4px;
 //     }
-    
+
 //     &:hover{
 //       background: #EC665E;
 //       box-shadow: 0 0 3px rgba(black, .5) inset;
 //     }
 //   }
-  
+
 //   .theme-btn10 {
-    
+
 //     &:hover{ line-height: 140px; }
-      
+
 //     &:before{
 //       content: attr(data-text);
 //       color: #DEEFF5;
