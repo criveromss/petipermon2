@@ -123,7 +123,7 @@
                     line-height: 36px;
                     color: $color-w;
                     transition: 0.3s;
-                    
+
                     &:hover {
                         background-color: $color-w;
                         transition: 0.3s;
@@ -174,7 +174,7 @@
             @media #{$xs} {
                 width: 100%;
           }
-            
+
 
             &::placeholder {
                 color: $color-w;
@@ -188,13 +188,13 @@
         }
 
         @media #{$md} {
-              text-align: start; 
-              margin-top: 30px; 
+              text-align: start;
+              margin-top: 30px;
         }
 
         @media #{$xs} {
-            text-align: start; 
-            margin-top: 30px; 
+            text-align: start;
+            margin-top: 30px;
       }
     }
 
@@ -286,7 +286,7 @@
                     line-height: 36px;
                     color: $color-w;
                     transition: 0.3s;
-                    
+
                     &:hover {
                         background-color: $color-w;
                         transition: 0.3s;
@@ -434,7 +434,7 @@
     }
     .social {
 
-        
+
         ul {
             @media #{$xs} {
                 padding-bottom: 20px;
@@ -452,7 +452,7 @@
                     line-height: 36px;
                     color: $color-w;
                     transition: 0.3s;
-                    
+
                     &:hover {
                         background-color: $color-w;
                         transition: 0.3s;
@@ -534,7 +534,7 @@
             width: 100%;
             margin-left: 0;
       }
-            
+
 
             &::placeholder {
                 color: $color-w;
@@ -548,13 +548,13 @@
         }
 
         @media #{$md} {
-              text-align: start; 
-              margin-top: 30px; 
+              text-align: start;
+              margin-top: 30px;
         }
 
         @media #{$xs} {
-            text-align: start; 
-            margin-top: 30px; 
+            text-align: start;
+            margin-top: 30px;
       }
     }
 
@@ -649,7 +649,7 @@
                     line-height: 36px;
                     color: $color-w;
                     transition: 0.3s;
-                    
+
                     &:hover {
                         background-color: $color-w;
                         transition: 0.3s;
@@ -694,7 +694,7 @@
 
     .cta5-area {
         padding: 80px 0px 10px 0px;
-    
+
         .headding {
             h2 {
                 font-family: $font-7;
@@ -723,7 +723,7 @@
                 line-height: 26px; /* 162.5% */
             }
         }
-    
+
         .cta-form2 {
             text-align: end;
             position: relative;
@@ -738,7 +738,7 @@
                 margin: 0;
             }
 
-            
+
             input {
                 padding: 30px 20px;
                 width: 70%;
@@ -747,28 +747,28 @@
                 border: none;
                 color: $bg-color7;
 
-                
+
 
                 &::placeholder {
                     color: #2F5592;
                 }
-    
+
                 @media #{$md} {
                     width: 100%;
                     margin-left: 0;
               }
-    
+
               @media #{$xs} {
                 width: 100%;
                 margin-left: 0;
           }
-                
-    
+
+
                 &::placeholder {
                     color: #444A4B;
                 }
             }
-    
+
             .cta2-btn {
                 position: absolute;
                 right: 110px;
@@ -781,18 +781,18 @@
                     right: 25px;
                 }
             }
-    
+
             @media #{$md} {
-                  text-align: start; 
-                  margin-top: 30px; 
+                  text-align: start;
+                  margin-top: 30px;
             }
-    
+
             @media #{$xs} {
-                text-align: start; 
-                margin-top: 30px; 
+                text-align: start;
+                margin-top: 30px;
           }
         }
-    
+
     }
 }
 
@@ -884,7 +884,7 @@
                     line-height: 36px;
                     color: $color-w;
                     transition: 0.3s;
-                    
+
                     &:hover {
                         background-color: $color-w;
                         transition: 0.3s;
@@ -932,7 +932,7 @@
 
     .cta5-area {
         padding: 80px 0px 10px 0px;
-    
+
         .headding {
             h2 {
                 font-family: $font-1;
@@ -962,7 +962,7 @@
                 line-height: 26px;
             }
         }
-    
+
         .cta-form2 {
             text-align: end;
             position: relative;
@@ -977,7 +977,7 @@
                 margin: 0;
             }
 
-            
+
             input {
                 padding: 17px 20px;
                 width: 75%;
@@ -989,23 +989,23 @@
                 &::placeholder {
                     color: #2F5592;
                 }
-    
+
                 @media #{$md} {
                     width: 100%;
                     margin-left: 0;
               }
-    
+
               @media #{$xs} {
                 width: 100%;
                 margin-left: 0;
           }
-                
-    
+
+
                 &::placeholder {
                     color: #444A4B;
                 }
             }
-    
+
             .cta2-btn {
                 position: absolute;
                 right: 85px;
@@ -1018,18 +1018,18 @@
                     right: 25px;
                 }
             }
-    
+
             @media #{$md} {
-                  text-align: start; 
-                  margin-top: 30px; 
+                  text-align: start;
+                  margin-top: 30px;
             }
-    
+
             @media #{$xs} {
-                text-align: start; 
-                margin-top: 30px; 
+                text-align: start;
+                margin-top: 30px;
           }
         }
-    
+
     }
 }
 
@@ -1122,7 +1122,7 @@
                     line-height: 36px;
                     color: $color-w;
                     transition: 0.3s;
-                    
+
                     &:hover {
                         background-color: $bg-color10;
                         transition: 0.3s;
@@ -1201,7 +1201,7 @@
             width: 100%;
             margin-left: 0;
       }
-            
+
 
             &::placeholder {
                 color: $color-w;
@@ -1215,13 +1215,13 @@
         }
 
         @media #{$md} {
-              text-align: start; 
-              margin-top: 30px; 
+              text-align: start;
+              margin-top: 30px;
         }
 
         @media #{$xs} {
-            text-align: start; 
-            margin-top: 30px; 
+            text-align: start;
+            margin-top: 30px;
       }
     }
 
@@ -1273,7 +1273,7 @@
                     line-height: 26px; /* 162.5% */
                     display: inline-block;
                     padding-bottom: 16px;
-                    transition: 0.3s; 
+                    transition: 0.3s;
                     font-family: $font-9;
                     &:hover {
                         color: $color-w;
@@ -1321,7 +1321,7 @@
                     line-height: 36px;
                     color: $color-w;
                     transition: 0.3s;
-                    
+
                     &:hover {
                         background-color: $color-w;
                         transition: 0.3s;
