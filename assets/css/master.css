@@ -3759,7 +3759,7 @@ html {
 
 .hero-area4 {
   position: relative;
-  min-height: 920px;
+  min-height: 550px;
   display: flex;
   align-items: center;
   background-color: #0B2147 !important;
@@ -3827,7 +3827,7 @@ html {
 }
 .hero-area4 .hero4-images {
   position: relative;
-  height: 630px;
+  height: 190px;
   overflow: hidden;
   z-index: 9;
 }
@@ -11985,3 +11985,22 @@ a.header__search.header-search-btn p {
     text-align: start !important;
   }
 }/*# sourceMappingURL=master.css.map */
+
+
+@media (max-width: 767px) {
+  .lawyer {
+
+    bottom: -94px !important;
+  }
+}
+
+
+
+.lawyer {
+  background: url(../img/petipermon.svg) center center / contain no-repeat local;
+  width: 75%;
+  height: 440px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
