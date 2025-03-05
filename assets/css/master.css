@@ -1788,7 +1788,6 @@ html {
   font-style: normal;
   font-weight: 600;
   line-height: 54px; /* 122.727% */
-  text-transform: capitalize;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .headding4 h2 {
@@ -3793,7 +3792,6 @@ html {
   font-style: normal;
   font-weight: 600;
   line-height: 64px; /* 114.286% */
-  text-transform: capitalize;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .hero-area4 .headding h1 {
@@ -11990,7 +11988,7 @@ a.header__search.header-search-btn p {
 @media (max-width: 767px) {
   .lawyer {
 
-    bottom: -94px !important;
+    bottom: -85px !important;
   }
 }
 
